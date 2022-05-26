@@ -1,6 +1,6 @@
 source: https://github.com/danifernandezs/marinera
 release: demo
-destination_namespace: &destination openshift-gitops
+destination_namespace: &destination smart-city
 branch: &branch main
 
 applications:
