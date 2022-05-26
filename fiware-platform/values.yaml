@@ -1,6 +1,6 @@
-source: https://github.com/FIWARE-Ops/marinera
+source: https://github.com/danifernandezs/marinera
 release: demo
-destination_namespace: &destination demo
+destination_namespace: &destination smart-city
 branch: &branch main
 
 applications:
